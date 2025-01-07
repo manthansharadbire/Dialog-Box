@@ -1,0 +1,39 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.container{
+    text-align: center;
+}
+
+#lenskartlogo{
+    height: 150px;
+    display: block;
+    margin:100px auto;
+    margin-bottom: 30px;
+    cursor: pointer;
+}
+
+#smalltext{
+    color: rgb(106, 116, 116);
+    font-size: larger;
+}
+
+#login-btn{
+    display: block;
+    margin: 70px auto;
+    padding: 15px 40px;
+    color: rgb(249, 250, 249);
+    border: none;
+    border-radius: 10px;
+    background-color: rgb(59, 101, 152);
+    cursor: pointer;
+    font-size: larger;
+}
+
+#login-btn:hover{
+    background-color: yellowgreen;
+    border: 1px solid gold;
+}
+
